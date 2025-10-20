@@ -1,6 +1,6 @@
 # Ugly hat remover mod for Team Fortress 2
 
-This is a script that creates a modified version of the [no-hats-bgum](https://pevhs.ch/tf2/nhbgum/) mod using [nhcustom2](https://pevhs.ch/tf2/nhcustom2/) that removes some of the uglier cosmetics from the game. Good looking hats are left intact
+This is a script that creates a modified version of the [no-hats-bgum](https://pevhs.ch/tf2/nhbgum/) mod using [nhcustom2](https://pevhs.ch/tf2/nhcustom2/) that removes some of the uglier cosmetic items from the game. Good looking hats are left intact
 
 Use the `config.txt` file to select which cosmetics to remove. More information can be found [here](https://pevhs.ch/tf2/nhcustom2/)
 
