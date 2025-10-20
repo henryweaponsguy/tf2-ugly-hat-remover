@@ -36,7 +36,7 @@ RUN ./nhcustom2
 
 RUN mv output ugly-hat-remover
 
-RUN zip -or ugly-hat-remover.zip ugly-hat-remover
+RUN vpk -c ugly-hat-remover ugly-hat-remover.vpk
 
 
 CMD ["tail", "-f", "/dev/null"]

@@ -8,7 +8,7 @@ Use the `config.txt` file to select which cosmetics to remove. More information 
 
 ### How to run
 
-Run `create_mod.sh` and copy `ugly-hat-remover.zip` from `out/`. Afterwards, extract the archive into your `tf/custom/` directory
+Run `create_mod.sh` and move `ugly-hat-remover.vpk` from `out/` to your `tf/custom/` directory
 
 ---
 
