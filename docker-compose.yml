@@ -1,0 +1,13 @@
+services:
+  tf2-ugly-hat-remover:
+    image: tf2-ugly-hat-remover:latest
+    build: .
+    container_name: tf2-ugly-hat-remover
+    volumes:
+      - ./out:/out
+    security_opt:
+      - "no-new-privileges=true"
+    cap_drop:
+          - ALL
+    tmpfs:
+      - /tmp
