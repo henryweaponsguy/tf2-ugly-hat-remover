@@ -16,4 +16,4 @@ Run `create_mod.sh` and move `ugly-hat-remover.vpk` from `out/` to your `tf/cust
 
 [Water Waders & Flavorful Baggies Paintless Casual](https://gamebanana.com/mods/472344) - a mod that removes paint regions from Water Waders and Flavorful Baggies so Pyro cannot disguise as the enemy team anymore
 
-[no_unusuals](https://pevhs.ch/tf2/vpk/nhbgum/no_unusuals.vpk) - a mod that removes unusuals. Unfortunately, it does not work on Casual. More information about the mod can be found [here](https://pevhs.ch/tf2/nhbgum/)
+[no_unusuals](https://pevhs.ch/tf2/vpk/nhbgum/no_unusuals.vpk) - a mod that removes unusual effects. Unfortunately, it does not work on Casual. More information about the mod can be found [here](https://pevhs.ch/tf2/nhbgum/)
